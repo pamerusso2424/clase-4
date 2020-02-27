@@ -1,0 +1,129 @@
+
+.cita {
+    
+    font-family: 'Lacquer', sans-serif;
+    border-left: initial;
+    padding-left: initial;
+    font-size-adjust: inherit;
+
+}
+
+.autora {
+
+    font-family: 'Sriracha', cursive;
+    padding-right: 50px;
+    display: inline-block;
+    font-size-adjust: inherit;
+}
+
+    
+.section1 {
+
+  font-family: 'Sriracha', cursive;
+  background-color: rgb(100, 100, 100);
+  width: 500px;
+  border: 15px solid rgb(240, 193, 133);
+  padding: 50px auto;
+  margin: 50px auto;
+    
+}
+ 
+       
+.section2 {
+        
+    font-family: 'Sriracha', cursive;
+    color: rgb(255, 255, 255);
+    background-color: rgb(26, 24, 23);
+    width: 500px;
+    border: 15px solid rgb(253, 253, 253);
+    padding: 50px auto;
+    margin: 50px auto;
+  
+}
+
+.section3 {
+
+    font-family: 'Merienda', cursive;
+    color: rgb(255, 255, 255);
+    background-color:  dimgray;
+    width: 500px;
+    border: 15px solid rgb(26, 23, 20);
+    padding: 50px auto;
+    margin: 50px auto;
+    
+    }
+
+
+.container1{
+
+    background-color: rgb(0, 0, 0);
+    color: ivory;
+    width: 300px;
+    border: 15px solid rgb(224, 194, 129);
+    padding: 50px;
+    margin:20px auto;
+    font-size-adjust: inherit;
+
+
+}
+
+.container2 {
+
+    background-color: rgb(3, 3, 3);
+    width: 300px;
+  border: 15px solid rgb(228, 227, 223);
+  padding: 50px;
+  margin: 20px auto;
+  font-size-adjust: unset;
+}
+
+.container3 {
+
+    background-color: rgb(8, 8, 8);
+        color: rgb(255, 253, 253);
+        width: 300px;
+      border: 15px solid rgb(248, 237, 237);
+      padding: 50px;
+      margin: 20px auto;
+      
+}
+
+
+.frase1 { 
+    
+    border-image: initial; border: 5px solid rgb(10, 10, 10);
+
+}
+
+.frase2 {
+ 
+    border-image: initial; border: 5px solid rgb(10, 10, 10);
+}
+
+.frase3 {
+
+    border-image: initial; border: 5px solid rgb(10, 10, 10);
+}
+
+hr {
+    background-color: rgb(19, 19, 26);
+    height: 10px;
+    border: 0;
+    color: rgb(14, 14, 19);
+    }
+
+    .block{
+        display:block;
+    }
+
+    .container1 img{
+
+        width: 150px;
+
+    }
+
+    .container3 img{
+
+        width: 75%;
+
+    }
